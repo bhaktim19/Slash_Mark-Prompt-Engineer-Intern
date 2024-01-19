@@ -6,6 +6,11 @@ In this section, we delve into the creation of a basic chatbot application to an
 
 Created a basic chatbot application using GPT-3-like capabilities to address common questions users may have on a specific topic. This project serves as an introduction to integrating a chatbot into a website or application, showcasing the fundamental principles of conversational interfaces.
 
+## Output of the code
+
+![Alt text](https://github.com/bhaktim19/Slash_Mark-Prompt-Engineer-Intern/blob/main/Images/Output.png)
+
+
 
 Chatbot Project Setup Instructions 
 ===================================
